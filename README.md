@@ -27,14 +27,13 @@ The goal of this project is to:
 
 ## ⚙️ Steps Performed
 
-1. **Import Libraries**
+1. Import Libraries
    ```python
    import pandas as pd
    
-2.**Load the Dataset**
+2.Load the Dataset
  ```python
 data = pd.read_csv("netflix1.csv")
-
 
 3.**Basic Data Inspection**
  ```python
